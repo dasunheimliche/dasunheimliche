@@ -4,6 +4,7 @@
 ### About Me
 Hello, I'm Claussimar Rodríguez, a frontend-focused full-stack web developer. The projects showcased here are ones I use daily and were conceived to fulfill an unmet need left by existing apps. I hope you can see in your visit through my portfolio my commitment to creating visually appealing and user-friendly experiences.
 
+### Technologies i've applied in my projects
 <div style="display: inline_block"><br>
   <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/ts.25ad80e5.png">
   <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/react.252cc4df.png">
