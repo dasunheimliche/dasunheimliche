@@ -15,3 +15,7 @@ Hello, I'm Claussimar Rodríguez, a frontend-focused full-stack web developer. T
   <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/mongodb.8502bf13.png">
   <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/mysql.d474a526.png">
 </div>
+
+### Contact Me
+<a href="https://www.linkedin.com/in/claussimar-rodríguez-209277275"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
+<a href="dasunheimliche7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
