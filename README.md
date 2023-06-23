@@ -14,14 +14,13 @@ Hello, I'm Claussimar Rodríguez, a frontend-focused full-stack web developer. T
 
 ### Technologies i've applied in my projects
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/ts.25ad80e5.png">
-  <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/react.252cc4df.png">
-  <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/vercel.d91f3d5e.png">
-  <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/nodejs.aed379c3.png">
-  <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/graphql.0f425ba4.png">
-  <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/socketio.9f955d0f.png">
-  <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/mongodb.8502bf13.png">
-  <img align="center" alt="Dana-Js" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/mysql.d474a526.png">
+  <img align="center" alt="ts" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/ts.25ad80e5.png">
+  <img align="center" alt="react" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/react.252cc4df.png">
+  <img align="center" alt="nextjs" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/vercel.d91f3d5e.png">
+  <img align="center" alt="nodejs" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/nodejs.aed379c3.png">
+  <img align="center" alt="graphql" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/graphql.0f425ba4.png">
+  <img align="center" alt="socket.io" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/socketio.9f955d0f.png">
+  <img align="center" alt="mongodb" height="40" width="40" src="https://claussimar-dev.vercel.app/_next/static/media/mongodb.8502bf13.png">
 </div>
 
 ### Contact Me
