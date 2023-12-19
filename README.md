@@ -1,5 +1,5 @@
 
-<h1>Hi! I'm Claussimar Rodríguez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi! I'm Claussimar Rodríguez</h1>
 <h2>Fullstack Web Developer 🎨</h2>
 
 <img src="https://media.licdn.com/dms/image/D4D16AQEm-ImitHRhwg/profile-displaybackgroundimage-shrink_350_1400/0/1686082857395?e=1692835200&v=beta&t=jh5pApS7vZHVKGOZjI3jSyZxG8MdM7KCMfQ0lnc3v44" alt="Mokkapps GitHub README header image">
