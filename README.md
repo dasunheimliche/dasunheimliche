@@ -6,7 +6,7 @@
 Hello, I'm Claussimar Rodríguez, a frontend-focused full-stack web developer. The projects showcased here are ones I use daily and were conceived to fulfill an unmet need left by existing apps. I hope you can see in your visit through my portfolio my commitment to creating visually appealing and user-friendly experiences.
 
 ### My Last Freelance Work
-- <a href="https://juntasms.com" target="_blank"><img alt="juntasms" src="https://img.shields.io/badge/juntasms-visit_web-blue">
+- <a href="https://juntasms.com" target="_blank"><img alt="juntasms.com" src="https://img.shields.io/badge/juntasms-visit_web-blue">
 
 ### My Projects
 - <a href="https://zahir-pink.vercel.app/" target="_blank"><img alt="zahir" src="https://img.shields.io/badge/Zahir-visit_web-blue">
