@@ -3,7 +3,9 @@
 <h2>Fullstack Web Developer 🎨</h2>
 
 ### About Me
-Hello, I'm Claussimar Rodríguez, a frontend-focused full-stack web developer. The projects showcased here are ones I use daily and were conceived to fulfill an unmet need left by existing apps. I hope you can see in your visit through my portfolio my commitment to creating visually appealing and user-friendly experiences.
+I am a fullstack web developer who has already taken his first steps in the professional world as a freelancer and as an employee. My experience is summarized in my current job at Bz Softwares, the development of juntasms.com for an Argentine industrial company, as well as 3 fullstack personal projects: Zahir, Promptify, and Words Battle.
+
+I can decently handle both backend and UI/UX design. I have a B2 level of English, so I am used to learning new tools in their original language.
 
 ### My Latests Freelance Works
 - <a href="https://orbitixsolutions.com" target="_blank"><img alt="orbitixsolutions.com" src="https://img.shields.io/badge/orbitixsolutions.com-visit_web-blue">
