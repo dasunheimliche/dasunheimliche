@@ -5,7 +5,7 @@
 ### About Me
 Hello, I'm Claussimar Rodríguez, a frontend-focused full-stack web developer. The projects showcased here are ones I use daily and were conceived to fulfill an unmet need left by existing apps. I hope you can see in your visit through my portfolio my commitment to creating visually appealing and user-friendly experiences.
 
-### My Last Freelance Work
+### My Latests Freelance Works
 - <a href="https://orbitixsolutions.com" target="_blank"><img alt="orbitixsolutions.com" src="https://img.shields.io/badge/orbitixsolutions.com-visit_web-blue">
 - <a href="https://juntasms.com" target="_blank"><img alt="juntasms.com" src="https://img.shields.io/badge/juntasms.com-visit_web-blue">
 
