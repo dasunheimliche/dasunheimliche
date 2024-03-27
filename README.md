@@ -9,7 +9,7 @@ Hello, I'm Claussimar Rodríguez, a frontend-focused full-stack web developer. T
 - <a href="https://orbitixsolutions.com" target="_blank"><img alt="orbitixsolutions.com" src="https://img.shields.io/badge/orbitixsolutions.com-visit_web-blue">
 - <a href="https://juntasms.com" target="_blank"><img alt="juntasms.com" src="https://img.shields.io/badge/juntasms.com-visit_web-blue">
 
-### My Projects
+### My Personal Projects
 - <a href="https://zahir-pink.vercel.app/" target="_blank"><img alt="zahir" src="https://img.shields.io/badge/Zahir-visit_web-blue">
 - <a href="https://promptify-steel.vercel.app/" target="_blank"><img alt="zahir" src="https://img.shields.io/badge/Promptify-visit_web-blue"></a> 
 - <a href="https://words-battle.vercel.app/" target="_blank"><img alt="zahir" src="https://img.shields.io/badge/Words_Battle-visit_web-blue"></a> 
