@@ -12,9 +12,9 @@ I can decently handle both backend and UI/UX design. I have a B2 level of Englis
 - <a href="https://juntasms.com" target="_blank"><img alt="juntasms.com" src="https://img.shields.io/badge/juntasms.com-visit_web-blue">
 
 ### My Personal Projects
-- <a href="https://zahir-pink.vercel.app/" target="_blank"><img alt="zahir" src="https://img.shields.io/badge/Zahir-visit_web-blue">
-- <a href="https://promptify-steel.vercel.app/" target="_blank"><img alt="zahir" src="https://img.shields.io/badge/Promptify-visit_web-blue"></a> 
-- <a href="https://words-battle.vercel.app/" target="_blank"><img alt="zahir" src="https://img.shields.io/badge/Words_Battle-visit_web-blue"></a> 
+- <a href="https://zahir.claussimar.com/" target="_blank"><img alt="zahir" src="https://img.shields.io/badge/Zahir-visit_web-blue">
+- <a href="https://promptify.claussimar.com/" target="_blank"><img alt="zahir" src="https://img.shields.io/badge/Promptify-visit_web-blue"></a> 
+- <a href="https://words-battle.claussimar.com/" target="_blank"><img alt="zahir" src="https://img.shields.io/badge/Words_Battle-visit_web-blue"></a> 
 
 ### Technologies i've applied in my projects
 <div style="display: inline_block"><br>
@@ -28,6 +28,6 @@ I can decently handle both backend and UI/UX design. I have a B2 level of Englis
 </div>
 
 ### Contact Me
-<a href="https://claussimar-dev.vercel.app/home?userType=recruiter" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-purple"></a> 
+<a href="https://claussimar.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-purple"></a> 
 <a href="https://www.linkedin.com/in/claussimar-rodríguez-209277275" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Claussimar%20Rodríguez-blue?style=flat-square&logo=linkedin"></a>
 <a href="dasunheimliche7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-dasunheimliche7@gmail.com-blue?style=flat-square&logo=gmail"></a>  
